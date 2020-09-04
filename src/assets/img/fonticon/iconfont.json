@@ -1,0 +1,331 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "41830222",
+      "name": "OA",
+      "font_class": "OA",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "41830223",
+      "name": "安全上报",
+      "font_class": "anquanshangbao",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "41830224",
+      "name": "点餐",
+      "font_class": "diancan",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "41830225",
+      "name": "成绩单",
+      "font_class": "chengjidan",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "41830226",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "41830227",
+      "name": "激励卡",
+      "font_class": "jilika",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "41830228",
+      "name": "基础信息",
+      "font_class": "jichuxinxi",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "41830229",
+      "name": "考试",
+      "font_class": "kaoshi",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "41830230",
+      "name": "排考",
+      "font_class": "paikao",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "41830231",
+      "name": "调代课",
+      "font_class": "tiaodaike",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "41830232",
+      "name": "选课",
+      "font_class": "xuanke",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "41830233",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "41830234",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "41830235",
+      "name": "审批",
+      "font_class": "shenpi",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "41830236",
+      "name": "阅读",
+      "font_class": "yuedu",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "41830237",
+      "name": "学分",
+      "font_class": "xuefen",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "41830238",
+      "name": "智能锁",
+      "font_class": "zhinengsuo",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "41830239",
+      "name": "新生分班",
+      "font_class": "xinshengfenban",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "41830240",
+      "name": "综合素质",
+      "font_class": "zonghesuzhi1",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "41830241",
+      "name": "排课",
+      "font_class": "paike",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "42916442",
+      "name": "分班-面性",
+      "font_class": "fenban",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "42916443",
+      "name": "成绩管理-面性",
+      "font_class": "chengjiguanli",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "42916444",
+      "name": "电子公文-面性",
+      "font_class": "dianzigongwen",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "42916445",
+      "name": "班级考核-面性",
+      "font_class": "banjikaohe",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "42916446",
+      "name": "电子班牌-面性",
+      "font_class": "dianzibanpai",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "42916447",
+      "name": "激励卡-面性",
+      "font_class": "jilika1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "42916448",
+      "name": "教师成长-面性",
+      "font_class": "jiaoshichengchang",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "42916449",
+      "name": "教师满意度-面性",
+      "font_class": "jiaoshimanyidu",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "42916450",
+      "name": "考勤-面性",
+      "font_class": "kaoqin",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "42916451",
+      "name": "红黑榜-面性",
+      "font_class": "hongheibang",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "42916452",
+      "name": "书韵阅读-面性",
+      "font_class": "shuyunyuedu",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "42916453",
+      "name": "访客-面性",
+      "font_class": "fangke",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "42916454",
+      "name": "校产预约-面性",
+      "font_class": "xiaochanyuyue",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "42916455",
+      "name": "排课-面性",
+      "font_class": "paike1",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "42916456",
+      "name": "师生通-面性",
+      "font_class": "shishengtong",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "42916457",
+      "name": "课务考勤-面性",
+      "font_class": "kewukaoqin",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "42916458",
+      "name": "微门户-面性",
+      "font_class": "weimenhu",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "42916459",
+      "name": "排考-面性",
+      "font_class": "paikao1",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "42916460",
+      "name": "选课-面性",
+      "font_class": "xuanke1",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "42916461",
+      "name": "学生报名-面性",
+      "font_class": "xueshengbaoming",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "42916462",
+      "name": "物品-面性",
+      "font_class": "wupin",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "42916463",
+      "name": "信息发布-面性",
+      "font_class": "xinxifabu",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "42916464",
+      "name": "学分-面性",
+      "font_class": "xuefen1",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "42917017",
+      "name": "智慧管理-面性",
+      "font_class": "zhihuiguanli",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "46548185",
+      "name": "首页-面性",
+      "font_class": "shouye1",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "48241957",
+      "name": "综合素质-面性",
+      "font_class": "zonghesuzhi",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    }
+  ]
+}

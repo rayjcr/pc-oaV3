@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>test</title>
+  <style>
+      *{
+          box-sizing: border-box;
+      }
+      .formbox{
+          width: 400px;
+          height: 200px;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          border: 1px solid #d0d0d0;
+          border-radius: 20px;
+          margin-top: -100px;
+          margin-left:-150px;
+      }
+      .col{
+          font-size: 16px;
+          font-weight: bold;
+          padding: 10px 0;
+      }
+      .col .ipt{
+          width: 280px;
+          border: 1px solid #ddd;
+          height: 30px;
+          margin: 0 10px;
+          padding: 0 10px;
+      }
+      .col .submit{
+          width: 100px;
+          height: 35px;
+          border: none;
+          background: #409EFF;
+          border-radius: 5px;
+          color: #FFF;  
+      }
+  </style>
+</head>
+<body>
+    <div class="formbox">
+        <form style="margin:20px;border:1px" method="post" action="/asgsets"> 
+            <div class="col">
+                <span>关键字:</span><input class="ipt" type="text" name="keywords" placeholder="请输入搜索关键字，多个关键字用英文逗号隔开">
+            </div>
+            <div class="col">
+                <span>收件人:</span><input class="ipt" type="text" name="sendto" placeholder="请输入邮箱地址，多个邮箱用英文逗号隔开">
+            </div>
+            <div class="col" style="text-align: center;">
+                <input type="submit" class="submit" value="提交">
+            </div>
+        </form>
+    </div>
+  {% if error %}
+        <h1 style="color:red">{{ error }}!</h1>
+  {% endif %}
+</body>
+</html>

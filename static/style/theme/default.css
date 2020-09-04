@@ -1,0 +1,48 @@
+@import url("../base.css");
+
+.head-box .hdlg{
+    color: #ffffff;
+    background-color: #2a2f55;
+    font-weight: bold;
+    font-size: 22px;
+}
+.sideItem{
+    background: #2a2f55;
+    position: relative;
+    color: rgba(192, 197, 235, .6);
+}
+.sideItem.active,.sideItem:hover{
+    background: #2e3461;
+    color: #c0c5eb;
+}
+.sideItem.arrow{
+    background-image: url(../../image/arrow_down.png);
+}
+.sideItem.active::after,.sideItem:hover::after{
+    content: '\20';
+    width: 6px;
+    height: 100%;
+    background: #3f67ff;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.sideSubItem{
+    background: #22274b;
+    color: rgba(192, 197, 235, .6);
+}
+.sideSubItem:hover,.sideSubItem.active{
+    background: #262b50;
+}
+
+.sideBox{
+    background-color: #2a2f55;
+}
+
+.sideItem .el-submenu__title{
+    color: rgba(192, 197, 235, .6);
+}
+
+.sideItem .el-submenu__title:hover{
+    background: transparent;
+}
